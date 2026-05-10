@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Hussain Al-khamri 👋
 
-<!--
-**hussainalkhamri/hussainalkhamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer | Laravel Specialist | Database Architect**
 
-Here are some ideas to get you started:
+I am a software engineer with a strong foundation in C++ and C#, specializing in building scalable enterprise applications, relational databases, and decoupled client-server architectures using Laravel and React. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Arsenal
+* **Backend:** PHP (8.x), Laravel (12/13), C++, C#, SQLite, MySQL, RESTful APIs
+* **Frontend:** React 18, TypeScript, Tailwind CSS, Alpine.js, Shadcn UI
+* **Architecture & Tools:** OOP, SDLC, Entity-Relationship Diagrams (ERD), TanStack Query, Git
+* **System Admin:** Windows API, Process Monitoring, Cloud Deployment
+
+### 💼 Featured Engineering Work
+* **Ghaseel Plus (غسيل بلس):** Architected a decoupled car wash management ecosystem using a Laravel 12 API backend and React 18 SPA. Engineered real-time state synchronization, OTP security flows, and a comprehensive BI dashboard.
+* **Layali Al-Omr (ليالي العمر):** Built a high-performance monolithic ERP & POS system (Laravel 13, Alpine.js). Integrated Google Gemini Pro API for contextual database querying and developed an AI-driven BI reporting engine.
+* **Core ERP Blueprint:** Designed a highly normalized database schema (>40 tables) for an SME ERP startup, establishing the structural data prerequisites for the backend API.
+
+### 🎓 Education & Certifications
+* **BSc Information Technology** - Graduated April 2025
+* **Foundations of Programming Diploma** - Programming Advices
+* **McKinsey Forward Program** - McKinsey & Company
+
+📫 **Let's Connect:** [Insert your LinkedIn URL here] | ✉️ saleh7ussain1@gmail.com
