@@ -1,6 +1,6 @@
 # Hi there, I'm Hussain Al-khamri 👋
 
-**Full-Stack Software Engineer | Laravel Specialist | Database Architect**
+**Full-Stack Developer | Laravel Specialist
 
 I am a software engineer with a strong foundation in C++ and C#, specializing in building scalable enterprise applications, relational databases, and decoupled client-server architectures using Laravel and React. 
 
@@ -20,4 +20,4 @@ I am a software engineer with a strong foundation in C++ and C#, specializing in
 * **Foundations of Programming Diploma** - Programming Advices
 * **McKinsey Forward Program** - McKinsey & Company
 
-📫 **Let's Connect:** [Insert your LinkedIn URL here] | ✉️ saleh7ussain1@gmail.com
+📫 **Let's Connect:** linkedin.com/in/hussainalkhamri | ✉️ alhussainalkhamri@gmail.com
